@@ -1,11 +1,26 @@
 {
-	"name": "newSite",
-	"version": "0.0.1",
-	"private": "true",
-	"dependencies": {
-		"express": "3.0.0alpha4",
-		"jade": "*",
-		"stylus": "*",
-		"nib": "*"
-	}
+  "name": "newSite",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "express": "3.0.0alpha4",
+    "jade": "*",
+    "stylus": "*",
+    "nib": "*"
+  },
+  "description": "A simple website built with node.js, Express, Jade and Stylus.",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fadelakin/Simple-Site-with-Node.js-and-Express.git"
+  },
+  "author": "Fisher Adelakin",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/fadelakin/Simple-Site-with-Node.js-and-Express/issues"
+  }
 }
